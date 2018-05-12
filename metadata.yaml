@@ -1,0 +1,36 @@
+_repo: Legends--amp--Romances-of-Brittany_30871
+_version: 0.1.0
+alternative_title: Legends and Romances of Brittany
+contributor:
+  illustrator:
+    agent_name: Cannell, W. Otway
+    gutenberg_agent_id: '34868'
+    url: http://www.gutenberg.org/2009/agents/34868
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spence, Lewis
+    alias: Spence, James Lewis Thomas Chalmers
+    birthdate: 1874
+    deathdate: 1955
+    gutenberg_agent_id: '5707'
+    url: http://www.gutenberg.org/2009/agents/5707
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Spence
+description: ''
+gutenberg_issued: '2010-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- France -- Brittany'
+- !lcsh 'Legends -- France -- Brittany'
+- !lcsh 'Brittany (France) -- Antiquities'
+- !lcc 'DC'
+title: Legends & Romances of Brittany
+url: http://www.gutenberg.org/ebooks/30871
